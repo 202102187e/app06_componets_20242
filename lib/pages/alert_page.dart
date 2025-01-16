@@ -29,7 +29,6 @@ class AlertPage extends StatelessWidget {
     );
   }
 
-  // Alert 2
   void showMyAlert2(BuildContext context) {
     showDialog(
       context: context,
