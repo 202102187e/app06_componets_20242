@@ -92,7 +92,7 @@ class CardPage extends StatelessWidget {
                       shape: BoxShape.circle,
                       image: DecorationImage(
                         image: NetworkImage(
-                          "https://media.istockphoto.com/id/1359362604/es/vector/formulario-de-llenado-de-mujeres.jpg?s=612x612&w=0&k=20&c=nUZRe7BpviUn_NaP3S3T4-3RN0OEcNLzoYfuxrNEkXc=",
+                          "https://media.istockphoto.com/id/1359362604/es/vector/formulario-de-llenado-de-mujeres.jpg?s=612x612&w=0&k=20&c=nUZRe7BpviUn_NaP3S3T4-3RN0OEcNLzoYfuxrNEkXc= ",
                         ),
                         fit: BoxFit.cover,
                       ),
